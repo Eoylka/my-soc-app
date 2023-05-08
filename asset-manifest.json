@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-soc-app/static/css/main.3c930554.css",
-    "main.js": "/my-soc-app/static/js/main.5c6fbe54.js",
+    "main.js": "/my-soc-app/static/js/main.cbd4be58.js",
     "static/js/787.28cb0dcd.chunk.js": "/my-soc-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/ContentImg.svg": "/my-soc-app/static/media/ContentImg.af296e302ce86a4a81f2.svg",
     "static/media/preloader.gif": "/my-soc-app/static/media/preloader.610a5a3a3f3c21c25334.gif",
@@ -21,11 +21,11 @@
     "static/media/BtnR.svg": "/my-soc-app/static/media/BtnR.e1fe2d4c3cc716be55b608f9ab156ab9.svg",
     "static/media/BtnL.svg": "/my-soc-app/static/media/BtnL.b743cb074e28b1eefc4011555518bb62.svg",
     "main.3c930554.css.map": "/my-soc-app/static/css/main.3c930554.css.map",
-    "main.5c6fbe54.js.map": "/my-soc-app/static/js/main.5c6fbe54.js.map",
+    "main.cbd4be58.js.map": "/my-soc-app/static/js/main.cbd4be58.js.map",
     "787.28cb0dcd.chunk.js.map": "/my-soc-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c930554.css",
-    "static/js/main.5c6fbe54.js"
+    "static/js/main.cbd4be58.js"
   ]
 }
