@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/my-soc-app/static/css/main.a1e7c854.css",
-    "main.js": "/my-soc-app/static/js/main.2b33cbd3.js",
+    "main.css": "/my-soc-app/static/css/main.e88ca360.css",
+    "main.js": "/my-soc-app/static/js/main.1b05e08a.js",
     "static/js/787.28cb0dcd.chunk.js": "/my-soc-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/ContentImg.svg": "/my-soc-app/static/media/ContentImg.af296e302ce86a4a81f2.svg",
+    "static/media/UserProf.png": "/my-soc-app/static/media/UserProf.f7a7cc95dd567587d965.png",
     "static/media/preloader.gif": "/my-soc-app/static/media/preloader.610a5a3a3f3c21c25334.gif",
     "static/media/UserLogo.png": "/my-soc-app/static/media/UserLogo.7c030672f28ca3dd42e8.png",
     "static/media/WithoutPhoto.png": "/my-soc-app/static/media/WithoutPhoto.5ade74376109f7b574d4.png",
@@ -13,19 +13,18 @@
     "static/media/UserLogo.svg": "/my-soc-app/static/media/UserLogo.7a42089c7a03b47e5dbb.svg",
     "static/media/Ellipse 42.png": "/my-soc-app/static/media/Ellipse 42.5c0c2763fb872d53da8e.png",
     "static/media/Vector.svg": "/my-soc-app/static/media/Vector.7dd728dcc79d6d6c60a763df6a03b8ea.svg",
-    "static/media/Header.svg": "/my-soc-app/static/media/Header.bd10988c861d5a69c247.svg",
+    "static/media/Header2.svg": "/my-soc-app/static/media/Header2.a5434dcd7a0b326d12e8.svg",
     "static/media/SendMsg.svg": "/my-soc-app/static/media/SendMsg.cc7295b0fef95a42d39c4f3fd76287aa.svg",
     "index.html": "/my-soc-app/index.html",
     "static/media/bx_log-out.svg": "/my-soc-app/static/media/bx_log-out.f7ad7cad0148364ec50620e750ffa6ea.svg",
-    "static/media/Nav.svg": "/my-soc-app/static/media/Nav.0b83121e6e179a325b19.svg",
     "static/media/BtnR.svg": "/my-soc-app/static/media/BtnR.e1fe2d4c3cc716be55b608f9ab156ab9.svg",
     "static/media/BtnL.svg": "/my-soc-app/static/media/BtnL.b743cb074e28b1eefc4011555518bb62.svg",
-    "main.a1e7c854.css.map": "/my-soc-app/static/css/main.a1e7c854.css.map",
-    "main.2b33cbd3.js.map": "/my-soc-app/static/js/main.2b33cbd3.js.map",
+    "main.e88ca360.css.map": "/my-soc-app/static/css/main.e88ca360.css.map",
+    "main.1b05e08a.js.map": "/my-soc-app/static/js/main.1b05e08a.js.map",
     "787.28cb0dcd.chunk.js.map": "/my-soc-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1e7c854.css",
-    "static/js/main.2b33cbd3.js"
+    "static/css/main.e88ca360.css",
+    "static/js/main.1b05e08a.js"
   ]
 }
